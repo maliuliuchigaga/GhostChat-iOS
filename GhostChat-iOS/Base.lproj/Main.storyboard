@@ -99,7 +99,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.94587927729999999" blue="0.23421838510000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="0.41946925819999997" blue="0.42935660720000002" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="hC3-CC-y27" firstAttribute="bottom" secondItem="2fi-mo-0CV" secondAttribute="top" id="7mf-cs-xX5"/>
                             <constraint firstItem="hC3-CC-y27" firstAttribute="top" secondItem="isk-yC-YM7" secondAttribute="bottom" constant="19" id="8Vh-lf-bVD"/>
